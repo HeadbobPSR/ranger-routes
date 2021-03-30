@@ -1,0 +1,21 @@
+:::tracker{species=Roselia baseStats="[50, 60, 45, 100, 80, 65]"}
+14: 
+  15 -> 0, 1, 0, 0, 0, 2 # corphish, pika
+  16 -> 0, 1, 0, 1, 1, 2 # flabebe, houndour
+  17 -> 1, 1, 0, 1, 1, 3 # zubat, gulpin, electrike
+  18 -> 1, 3, 0, 1, 1, 5 # scraggy, croagunk, skiploom
+  19 -> 2, 3, 0, 1, 1, 5 # dunsparce
+  20 -> 5, 3, 0, 1, 1, 5 # azumarill
+  21 -> 5, 3, 3, 1, 1, 5 # hiker
+  22 -> 6, 5, 3, 2, 1, 5 # grant and lucario 1
+  23 -> 6, 6, 3, 3, 1, 5 # lucario 2
+  24 -> 6, 7, 3, 3, 1, 7 # linoone, doduo
+  25 -> 6, 9, 3, 4, 2, 8 # helioptile, granbull, chimecho
+  26 -> 6, 10, 3, 4, 2, 10 # golett, meowstic
+  27 -> 6, 12, 3, 4, 2, 12 # absol, frogadier
+  28 -> 8, 14, 3, 4, 2, 13 # meditite, mienfoo, pancham, throh
+  29 -> 8, 18, 3, 4, 2, 13 # machoke, sawk
+  30 -> 10, 20, 3, 4, 2, 13 # hariyama, heracross
+  31 -> 10, 20, 3, 4, 2, 13 # candy 1
+  32 -> 10, 20, 3, 4, 2, 13 # candy 2
+:::
